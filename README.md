@@ -1,2 +1,2 @@
 # volunter-pembuatan-aplikasi
-Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatann aplikasi di coding
+Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi di coding
